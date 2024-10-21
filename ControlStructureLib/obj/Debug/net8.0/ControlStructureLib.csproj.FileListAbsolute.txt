@@ -1,0 +1,11 @@
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\bin\Debug\net8.0\ControlStructureLib.deps.json
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\bin\Debug\net8.0\ControlStructureLib.dll
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\bin\Debug\net8.0\ControlStructureLib.pdb
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.AssemblyInfo.cs
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.dll
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\refint\ControlStructureLib.dll
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ControlStructureLib.pdb
+C:\Users\shiva\source\repos\BankingSystem\ControlStructureLib\obj\Debug\net8.0\ref\ControlStructureLib.dll
